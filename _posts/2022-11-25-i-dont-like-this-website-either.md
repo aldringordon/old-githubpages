@@ -3,7 +3,7 @@ layout: post
 title: I dont like this website either
 date: 2022-11-25 14:27 +0800
 categories: [ development, aldringordondotcom ]
-tags [ aldringordondotcom ]
+tags: [ aldringordondotcom ]
 ---
 
 idk why but last night as  I was creating the about page i was trying to customise the page more than i should
@@ -18,3 +18,7 @@ so my options are to either:
 - actually just build one from scratch (which i really want to do)
 
 im heavily leaning towards just making one from scratch but ill leave this one here **for now**...
+
+---
+
+*update: i dont like the stupid reload button*
