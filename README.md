@@ -23,17 +23,43 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 
 ## Installation
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
+Then clone to your local machine and run:
 
 ```
 $ bundle
 ```
 
+## Running the app
+
+Running local server
+
+```
+# Default
+$ bundle exec jekyll s
+
+# For live reload
+$ bundle exec jekyll s --livereload
+```
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+
+## Creating Content
+
+Create content using [Jekyll-Compose](https://github.com/jekyll/jekyll-compose):
+
+```
+# Create a new page using:
+$ bundle exec jekyll page "My New Page"
+
+# Create a new post using:
+$ bundle exec jekyll post "My New Post"
+
+# Rename your post using:
+$ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
+```
+
 
 ## License
 
