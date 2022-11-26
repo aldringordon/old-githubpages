@@ -10,7 +10,7 @@ im going to build my site from the ground up with angular
 
 i brought up the site today in safari on my 2013 macbook and it looks **terrible**
 
-![Safari Screenshot](./assets/../../assets/SafariWebsiteScreenshot.jpg)
+![Safari Screenshot](./../assets/SafariWebsiteScreenshot.jpg)
 
 ## the plan
 
@@ -24,6 +24,6 @@ challenge: somehow keep these posts + metadata
 
 i think doing it this way will let me just focus on one things at a time.
 
-ideally id like to just have single a nice landing page thats my 'portfolio'
+ideally id like to just have single a nice landing page thats my portfolio
 
 i guess all this extra blog stuff i can create another website for, but i need to think of another name and probably buy the domain name asap
