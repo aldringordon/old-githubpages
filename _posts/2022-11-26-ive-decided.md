@@ -12,6 +12,12 @@ i brought up the site today in safari on my 2013 macbook and it looks **terrible
 
 ![Safari Screenshot](/assets/SafariWebsiteScreenshot.jpg)
 
+> Update: fixed it by updating the stupid gemlock file lol
+
+![Safari Fixed Screenshot](/assets/SafariFixedScreenshot.jpg)
+
+![Safari Fix Commit](/assets/SafariFixCommit.jpg)
+
 ## the plan
 
 deploy a basic angular template to netlify and work on it from there
