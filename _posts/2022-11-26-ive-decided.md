@@ -10,7 +10,7 @@ im going to build my site from the ground up with angular
 
 i brought up the site today in safari on my 2013 macbook and it looks **terrible**
 
-![Safari Screenshot](./../assets/SafariWebsiteScreenshot.jpg)
+![Safari Screenshot](/assets/SafariWebsiteScreenshot.jpg)
 
 ## the plan
 
