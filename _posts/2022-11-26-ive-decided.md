@@ -12,7 +12,8 @@ i brought up the site today in safari on my 2013 macbook and it looks **terrible
 
 ![Safari Screenshot](/assets/SafariWebsiteScreenshot.jpg)
 
-> Update: fixed it by updating the stupid gemlock file lol
+> Update: fixed it by updating the stupid gemlock file lol.
+{: .prompt-tip }
 
 ![Safari Fixed Screenshot](/assets/SafariFixedScreenshot.jpg)
 
