@@ -2,8 +2,8 @@
 layout: post
 title: Development setup x2
 date: 2022-11-25 15:25 +0800
-categories: [ development, career journey ]
-tags: [ career journey, development ]
+categories: [ development, career ]
+tags: [ career, development ]
 ---
 
 fridays are supposed to be my one day of the week where i get to kinda fuck work off and do some career development stuff.
@@ -16,6 +16,6 @@ setting up the server and client on my local env literally took me all day, i wa
 
 there was so much waiting around that i decided to work on **THIS** site in between
 
-**tldr;** i spent my whole day waiting around for projects to build and didnt get to build anything
+**tldr** i spent my whole day waiting around for projects to build and didnt get to build anything
 
 yay
