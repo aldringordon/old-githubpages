@@ -8,7 +8,7 @@ tags: [ aldringordondotcom ]
 
 ## Todays the day...
 
-!["](/assets/2022-11-27-starting-over-again/Screenshot%202022-11-27%20153300.png)
+!["](/assets/2022-11-27-starting-over-again/DesktopScreenshot.png)
 
 ive pulled the trigger and have started working on my new landing page portfolio
 
