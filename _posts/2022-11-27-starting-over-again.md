@@ -12,7 +12,9 @@ tags: [ aldringordondotcom ]
 
 ive pulled the trigger and have started working on my new landing page portfolio
 
-i decided to just start by following this [tutorial](https://www.youtube.com/watch?v=urgi2iz9P6U), its a single page webapp so should be pretty *doable*
+i decided to just start by following this tutorial https://www.youtube.com/watch?v=urgi2iz9P6U
+
+its a single page webapp so should be pretty *doable*
 
 it uses:
 - next js
