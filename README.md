@@ -45,7 +45,7 @@ $ bundle exec jekyll s --livereload
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
-## Creating Content
+## Content Management
 
 Create content using [Jekyll-Compose](https://github.com/jekyll/jekyll-compose):
 
@@ -58,6 +58,9 @@ $ bundle exec jekyll post "My New Post"
 
 # Rename your post using:
 $ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
+
+# Archive a post using:
+$ bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md "My New Post"
 ```
 
 
