@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Hello World!
-date: 2022-11-24 23:34 +0800
-categories: [Blog, Dev]
-tags: [ Jekyll ]
+categories:
+- Blog
+- Dev
+tags:
+- Jekyll
 ---
 Test post.
 
