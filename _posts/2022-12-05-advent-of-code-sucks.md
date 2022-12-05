@@ -17,41 +17,37 @@ i tried to be extra and use `regex` which actually fucked me for a long time bec
 it was supposed to read the instructions numbers from a sentence like `move 26 crates from stack 3 to stack 6` which the regex parser would convert:
 
 ```python
-# regex
-'\d'
+#regex
+reg = r'\d'
+
+#string
+line = 'move 26 crates from stack 3 to stack 6'
 
 # string parsed into list
-x = [26, 3, 6]
+x = [26, 3, 6] = re.findall(regex, line)
 
 # deserializing
-move = x[0]
-move = x[1]
-move = x[2]
-
-# which becomes
-move = 26
-source = 3
-stack = 6
+move   = 26 = x[0]
+source = 3  = x[1]
+dest   = 6  = x[2]
 ```
 
 unfortunately what was happening becomes im a complete ~~idiot~~ was:
 
 ```python
 #regex
-'\d+'
+reg = r'\d+'
+
+#string
+line = 'move 26 crates from stack 3 to stack 6'
 
 # string parsed into list
-x = [2, 6, 3, 6]
+x = [2, 6, 3, 6] = re.findall(regex, line)
 
 # deserializing
-move = x[0]
-move = x[1]
-move = x[2]
-
-# which becomes
-move = 2
-source = 6
-stack = 3
+move   = 2 = x[0] # f
+source = 6 = x[1] # f
+dest   = 3 = x[2] # s
 ```
 
 not happy ay, but it was fine i figured it out and works great
